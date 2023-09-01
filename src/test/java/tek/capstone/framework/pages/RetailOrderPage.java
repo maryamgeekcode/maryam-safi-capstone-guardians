@@ -75,9 +75,9 @@ public WebElement submitReturnOrder;
 public WebElement orderReturnMessg; 
 
 //review
-@FindBy(xpath= "//div[@class='order']")
+@FindBy(xpath= "//p[@class='order__header-btn'")
 public WebElement firstOrderOntheList;
-@FindBy(xpath= "//button[@class='order__item-btn']") 
+@FindBy(id="reviewBtn") 
 public WebElement reviewButton;
 
 @FindBy(xpath="//input[@id='headlineInput']") 

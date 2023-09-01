@@ -428,3 +428,19 @@
 2023-09-01 12:20:05,511 [main] INFO logger_File - User click on cancle order option
 2023-09-01 12:20:07,329 [main] INFO logger_File - order list was accessed
 2023-09-01 12:20:07,590 [main] INFO logger_File - User access order list
+2023-09-01 12:24:11,908 [main] INFO logger_File - user is on homepage successfully and logo is displayed
+2023-09-01 12:24:11,985 [main] INFO logger_File - Login button was clicked
+2023-09-01 12:24:12,334 [main] INFO logger_File - email and password were entered
+2023-09-01 12:24:12,391 [main] INFO logger_File - login button was clicked
+2023-09-01 12:24:12,605 [main] INFO logger_File - logout button is displayed and user is logged in
+2023-09-01 12:24:13,031 [main] INFO logger_File - User click on cancle order option
+2023-09-01 12:24:14,810 [main] INFO logger_File - order list was accessed
+2023-09-01 12:24:15,078 [main] INFO logger_File - User access order list
+2023-09-01 12:26:46,106 [main] INFO logger_File - user is on homepage successfully and logo is displayed
+2023-09-01 12:26:46,185 [main] INFO logger_File - Login button was clicked
+2023-09-01 12:26:46,541 [main] INFO logger_File - email and password were entered
+2023-09-01 12:26:46,583 [main] INFO logger_File - login button was clicked
+2023-09-01 12:26:46,795 [main] INFO logger_File - logout button is displayed and user is logged in
+2023-09-01 12:26:47,259 [main] INFO logger_File - User click on cancle order option
+2023-09-01 12:26:50,207 [main] INFO logger_File - user is orders page
+2023-09-01 12:26:50,485 [main] INFO logger_File - user clicked on the first order on the list
