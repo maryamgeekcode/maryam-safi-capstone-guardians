@@ -1,0 +1,378 @@
+2023-08-04 23:38:18,542 - logger_File -INFO - tekSchool  logo is displayed
+2023-08-05 00:07:57,550 - logger_File -INFO - tekSchool  logo is displayed
+2023-08-05 00:55:59,764 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:02:00,817 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:06:40,194 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:14:22,458 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:33:20,239 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:36:46,447 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:40:51,096 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:43:13,908 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:46:24,687 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:48:41,413 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:51:41,578 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:55:17,095 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 01:55:17,660 - logger_File -INFO - Login button was clicked
+2023-08-05 01:55:18,518 - logger_File -INFO - email and password were entered
+2023-08-05 01:55:18,999 - logger_File -INFO - login button was clicked
+2023-08-05 01:55:19,208 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-05 02:41:22,323 - logger_File -INFO - Login button was clicked
+2023-08-05 02:47:08,468 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 02:47:08,591 - logger_File -INFO - Login button was clicked
+2023-08-05 02:50:34,922 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 02:50:35,037 - logger_File -INFO - Login button was clicked
+2023-08-05 02:52:42,569 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 02:52:42,682 - logger_File -INFO - Login button was clicked
+2023-08-05 02:52:42,940 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:52:43,802 - logger_File -INFO - needed data is entered
+2023-08-05 02:52:43,947 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:53:35,362 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 02:53:35,490 - logger_File -INFO - Login button was clicked
+2023-08-05 02:53:35,729 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:53:36,573 - logger_File -INFO - needed data is entered
+2023-08-05 02:53:36,743 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:57:38,417 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 02:57:38,556 - logger_File -INFO - Login button was clicked
+2023-08-05 02:57:38,765 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:57:39,572 - logger_File -INFO - needed data is entered
+2023-08-05 02:57:39,707 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:58:08,016 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 02:58:08,115 - logger_File -INFO - Login button was clicked
+2023-08-05 02:58:08,326 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:58:09,090 - logger_File -INFO - needed data is entered
+2023-08-05 02:58:09,242 - logger_File -INFO - sign up button is clicked
+2023-08-05 02:58:09,548 - logger_File -INFO - your profile is displayed
+2023-08-05 12:14:14,559 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 12:14:14,697 - logger_File -INFO - side bar drop down was clicked
+2023-08-05 12:19:12,212 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 12:19:12,306 - logger_File -INFO - side bar drop down was clicked
+2023-08-05 14:00:47,819 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-05 14:00:47,920 - logger_File -INFO - side bar drop down was clicked
+2023-08-06 20:01:18,248 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-06 20:01:18,365 - logger_File -INFO - Login button was clicked
+2023-08-06 20:01:19,058 - logger_File -INFO - email and password were entered
+2023-08-06 20:01:19,102 - logger_File -INFO - login button was clicked
+2023-08-06 20:01:19,554 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-06 20:01:19,696 - logger_File -INFO - Account button was clicked
+2023-08-08 16:26:27,394 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 16:26:27,496 - logger_File -INFO - Login button was clicked
+2023-08-08 16:26:28,086 - logger_File -INFO - email and password were entered
+2023-08-08 16:26:28,138 - logger_File -INFO - login button was clicked
+2023-08-08 16:26:28,366 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 16:26:28,589 - logger_File -INFO - Account button was clicked
+2023-08-08 16:29:16,152 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 16:29:16,247 - logger_File -INFO - Login button was clicked
+2023-08-08 16:29:16,713 - logger_File -INFO - email and password were entered
+2023-08-08 16:29:16,759 - logger_File -INFO - login button was clicked
+2023-08-08 16:29:16,994 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 16:29:17,164 - logger_File -INFO - Account button was clicked
+2023-08-08 16:29:17,215 - logger_File -INFO - Payment button was clicked
+2023-08-08 16:31:01,918 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 16:31:02,054 - logger_File -INFO - Login button was clicked
+2023-08-08 16:31:02,546 - logger_File -INFO - email and password were entered
+2023-08-08 16:31:02,598 - logger_File -INFO - login button was clicked
+2023-08-08 16:31:02,863 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 16:31:03,036 - logger_File -INFO - Account button was clicked
+2023-08-08 16:31:03,129 - logger_File -INFO - Payment button was clicked
+2023-08-08 16:41:16,696 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 16:41:16,786 - logger_File -INFO - Login button was clicked
+2023-08-08 16:41:17,314 - logger_File -INFO - email and password were entered
+2023-08-08 16:41:17,361 - logger_File -INFO - login button was clicked
+2023-08-08 16:41:17,659 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 16:41:17,805 - logger_File -INFO - Account button was clicked
+2023-08-08 16:41:17,870 - logger_File -INFO - Payment button was clicked
+2023-08-08 16:41:18,763 - logger_File -INFO - Debit card information was added
+2023-08-08 16:41:18,796 - logger_File -INFO - payment added button was clicked
+2023-08-08 17:45:49,203 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 17:45:49,293 - logger_File -INFO - Login button was clicked
+2023-08-08 17:45:49,827 - logger_File -INFO - email and password were entered
+2023-08-08 17:45:49,863 - logger_File -INFO - login button was clicked
+2023-08-08 17:45:50,109 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 17:45:50,266 - logger_File -INFO - Account button was clicked
+2023-08-08 17:54:45,662 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 17:54:45,737 - logger_File -INFO - Login button was clicked
+2023-08-08 17:54:46,219 - logger_File -INFO - email and password were entered
+2023-08-08 17:54:46,268 - logger_File -INFO - login button was clicked
+2023-08-08 17:54:46,502 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 17:54:46,658 - logger_File -INFO - Account button was clicked
+2023-08-08 17:58:51,876 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 17:58:51,980 - logger_File -INFO - Login button was clicked
+2023-08-08 17:58:52,510 - logger_File -INFO - email and password were entered
+2023-08-08 17:58:52,553 - logger_File -INFO - login button was clicked
+2023-08-08 17:58:52,791 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 17:58:52,943 - logger_File -INFO - Account button was clicked
+2023-08-08 22:21:13,159 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-08 22:21:13,287 - logger_File -INFO - Login button was clicked
+2023-08-08 22:21:13,916 - logger_File -INFO - email and password were entered
+2023-08-08 22:21:13,988 - logger_File -INFO - login button was clicked
+2023-08-08 22:21:14,260 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-08 22:21:14,455 - logger_File -INFO - Account button was clicked
+2023-08-10 21:27:11,412 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-10 21:27:11,525 - logger_File -INFO - Login button was clicked
+2023-08-10 21:27:12,252 - logger_File -INFO - email and password were entered
+2023-08-10 21:27:12,310 - logger_File -INFO - login button was clicked
+2023-08-10 21:27:12,736 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-10 21:27:12,942 - logger_File -INFO - Account button was clicked
+2023-08-11 00:24:32,259 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-11 00:24:32,346 - logger_File -INFO - Login button was clicked
+2023-08-11 00:24:32,939 - logger_File -INFO - email and password were entered
+2023-08-11 00:24:32,984 - logger_File -INFO - login button was clicked
+2023-08-11 00:25:47,553 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-11 00:25:47,653 - logger_File -INFO - Login button was clicked
+2023-08-11 00:25:48,180 - logger_File -INFO - email and password were entered
+2023-08-11 00:25:48,229 - logger_File -INFO - login button was clicked
+2023-08-11 00:25:58,845 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-11 00:25:59,073 - logger_File -INFO - drop down catagory was changed to smart home
+2023-08-11 00:25:59,281 - logger_File -INFO - Item was searched for
+2023-08-11 00:25:59,405 - logger_File -INFO - search button was clicked
+2023-08-11 01:54:29,517 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-11 01:54:29,622 - logger_File -INFO - Login button was clicked
+2023-08-11 01:54:30,139 - logger_File -INFO - email and password were entered
+2023-08-11 01:54:30,182 - logger_File -INFO - login button was clicked
+2023-08-11 01:54:34,372 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-11 01:54:34,583 - logger_File -INFO - Catagory was changed to electronics
+2023-08-11 01:54:34,761 - logger_File -INFO - Apex Legends was searched for
+2023-08-11 01:54:34,900 - logger_File -INFO - search button was clicked
+2023-08-11 01:58:17,607 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-11 01:58:17,717 - logger_File -INFO - Login button was clicked
+2023-08-11 01:58:18,238 - logger_File -INFO - email and password were entered
+2023-08-11 01:58:18,283 - logger_File -INFO - login button was clicked
+2023-08-11 01:58:18,523 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-11 01:58:18,765 - logger_File -INFO - Catagory was changed to electronics
+2023-08-11 01:58:18,953 - logger_File -INFO - Apex Legends was searched for
+2023-08-11 01:58:19,084 - logger_File -INFO - search button was clicked
+2023-08-11 02:56:44,950 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-11 02:56:45,071 - logger_File -INFO - Login button was clicked
+2023-08-11 02:56:45,535 - logger_File -INFO - email and password were entered
+2023-08-11 02:56:45,574 - logger_File -INFO - login button was clicked
+2023-08-11 02:56:45,814 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-11 02:56:46,071 - logger_File -INFO - User click on cancle order option
+2023-08-11 03:01:57,319 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-11 03:01:57,421 - logger_File -INFO - Login button was clicked
+2023-08-11 03:01:57,942 - logger_File -INFO - email and password were entered
+2023-08-11 03:01:57,986 - logger_File -INFO - login button was clicked
+2023-08-11 03:01:58,218 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-11 03:01:58,472 - logger_File -INFO - User click on cancle order option
+2023-08-11 03:06:53,570 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-11 03:06:53,668 - logger_File -INFO - Login button was clicked
+2023-08-11 03:06:54,207 - logger_File -INFO - email and password were entered
+2023-08-11 03:06:54,248 - logger_File -INFO - login button was clicked
+2023-08-11 03:06:54,497 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-11 03:06:54,748 - logger_File -INFO - User click on cancle order option
+2023-08-14 11:02:33,248 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-14 11:02:33,398 - logger_File -INFO - side bar drop down was clicked
+2023-08-14 11:02:38,442 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-14 11:02:38,561 - logger_File -INFO - side bar drop down was clicked
+2023-08-14 11:02:43,589 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-14 11:02:43,702 - logger_File -INFO - side bar drop down was clicked
+2023-08-14 11:02:48,536 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-14 11:02:48,689 - logger_File -INFO - side bar drop down was clicked
+2023-08-14 11:02:53,337 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-14 11:02:53,449 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:21:43,510 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:21:43,598 - logger_File -INFO - Login button was clicked
+2023-08-15 22:21:44,341 - logger_File -INFO - email and password were entered
+2023-08-15 22:21:44,396 - logger_File -INFO - login button was clicked
+2023-08-15 22:21:44,668 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 22:21:45,053 - logger_File -INFO - User click on cancle order option
+2023-08-15 22:31:02,844 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:31:02,945 - logger_File -INFO - Login button was clicked
+2023-08-15 22:31:03,632 - logger_File -INFO - email and password were entered
+2023-08-15 22:31:03,695 - logger_File -INFO - login button was clicked
+2023-08-15 22:31:03,950 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 22:31:04,345 - logger_File -INFO - User click on cancle order option
+2023-08-15 22:31:05,728 - logger_File -INFO - User click on cancle order option
+2023-08-15 22:33:30,110 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:33:30,261 - logger_File -INFO - Login button was clicked
+2023-08-15 22:33:31,012 - logger_File -INFO - email and password were entered
+2023-08-15 22:33:31,075 - logger_File -INFO - login button was clicked
+2023-08-15 22:33:31,617 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 22:33:31,994 - logger_File -INFO - User click on cancle order option
+2023-08-15 22:33:33,129 - logger_File -INFO - User click on cancle order option
+2023-08-15 22:33:47,041 - logger_File -INFO - reason to cancel was specified
+2023-08-15 22:33:49,076 - logger_File -INFO - order was cancled finally
+2023-08-15 22:43:02,085 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:43:02,266 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:43:07,959 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:43:08,088 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:43:13,819 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:43:13,928 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:43:19,415 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:43:19,595 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:43:25,238 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:43:25,378 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:44:09,238 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:44:09,386 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:44:15,074 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:44:15,274 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:44:20,898 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:44:21,088 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:44:26,325 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:44:26,450 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:44:31,886 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:44:32,021 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:51:42,719 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:51:42,848 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:51:53,108 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:51:53,375 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:52:00,334 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:52:00,426 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:52:07,543 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:52:07,765 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:52:14,265 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:52:14,416 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:56:55,507 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:56:55,900 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:56:56,441 - logger_File -INFO - the option TV & Videois present
+2023-08-15 22:56:56,639 - logger_File -INFO - the option Video Gamesis present
+2023-08-15 22:57:03,827 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:57:04,000 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:57:04,376 - logger_File -INFO - the option Accessoriesis present
+2023-08-15 22:57:04,471 - logger_File -INFO - the option Networkingis present
+2023-08-15 22:57:09,776 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:57:10,055 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:57:10,831 - logger_File -INFO - the option Smart Home Lightningis present
+2023-08-15 22:57:11,082 - logger_File -INFO - the option Plugs and Outletsis present
+2023-08-15 22:57:16,862 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:57:16,977 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 22:57:17,405 - logger_File -INFO - the option Athletic Clothingis present
+2023-08-15 22:57:17,500 - logger_File -INFO - the option Exercise & Fitnessis present
+2023-08-15 22:57:23,042 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 22:57:23,136 - logger_File -INFO - side bar drop down was clicked
+2023-08-15 23:02:19,621 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:02:20,098 - logger_File -INFO - Login button was clicked
+2023-08-15 23:02:21,056 - logger_File -INFO - email and password were entered
+2023-08-15 23:02:21,105 - logger_File -INFO - login button was clicked
+2023-08-15 23:02:21,436 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:02:21,751 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:02:23,013 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:02:23,596 - logger_File -INFO - cancle button clicked
+2023-08-15 23:02:23,838 - logger_File -INFO - reason to cancel was specified
+2023-08-15 23:06:58,235 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:06:58,358 - logger_File -INFO - Login button was clicked
+2023-08-15 23:06:58,986 - logger_File -INFO - email and password were entered
+2023-08-15 23:06:59,035 - logger_File -INFO - login button was clicked
+2023-08-15 23:06:59,291 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:06:59,688 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:07:00,943 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:07:01,462 - logger_File -INFO - cancle button clicked
+2023-08-15 23:07:01,681 - logger_File -INFO - reason to cancel was specified
+2023-08-15 23:07:01,843 - logger_File -INFO - order was cancled finally
+2023-08-15 23:09:07,714 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:09:07,832 - logger_File -INFO - Login button was clicked
+2023-08-15 23:09:08,604 - logger_File -INFO - email and password were entered
+2023-08-15 23:09:08,669 - logger_File -INFO - login button was clicked
+2023-08-15 23:09:08,997 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:09:09,312 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:09:10,457 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:09:11,050 - logger_File -INFO - cancle button clicked
+2023-08-15 23:09:11,497 - logger_File -INFO - reason to cancel was specified
+2023-08-15 23:09:11,724 - logger_File -INFO - order was cancled finally
+2023-08-15 23:09:11,732 - logger_File -INFO - Cancle order msg was shown
+2023-08-15 23:11:19,309 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:11:19,416 - logger_File -INFO - Login button was clicked
+2023-08-15 23:11:20,064 - logger_File -INFO - email and password were entered
+2023-08-15 23:11:20,124 - logger_File -INFO - login button was clicked
+2023-08-15 23:11:20,410 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:11:20,729 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:11:22,180 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:11:22,796 - logger_File -INFO - cancle button clicked
+2023-08-15 23:11:23,035 - logger_File -INFO - reason to cancel was specified
+2023-08-15 23:11:23,210 - logger_File -INFO - order was cancled finally
+2023-08-15 23:11:23,345 - logger_File -INFO - Cancle order msg was shown
+2023-08-15 23:16:31,434 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:16:31,683 - logger_File -INFO - Login button was clicked
+2023-08-15 23:16:32,533 - logger_File -INFO - email and password were entered
+2023-08-15 23:16:32,647 - logger_File -INFO - login button was clicked
+2023-08-15 23:16:32,918 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:16:33,337 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:16:34,990 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:17:57,420 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:17:57,533 - logger_File -INFO - Login button was clicked
+2023-08-15 23:17:58,170 - logger_File -INFO - email and password were entered
+2023-08-15 23:17:58,262 - logger_File -INFO - login button was clicked
+2023-08-15 23:17:58,526 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:17:59,074 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:18:00,685 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:18:01,629 - logger_File -INFO - cancle button clicked
+2023-08-15 23:18:01,874 - logger_File -INFO - reason to cancel was specified
+2023-08-15 23:18:02,063 - logger_File -INFO - order was cancled finally
+2023-08-15 23:18:02,223 - logger_File -INFO - Cancle order msg was shown
+2023-08-15 23:19:10,532 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:19:10,637 - logger_File -INFO - Login button was clicked
+2023-08-15 23:19:11,305 - logger_File -INFO - email and password were entered
+2023-08-15 23:19:11,361 - logger_File -INFO - login button was clicked
+2023-08-15 23:19:11,695 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:19:12,088 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:19:13,395 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:19:42,486 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:19:42,651 - logger_File -INFO - Login button was clicked
+2023-08-15 23:19:43,212 - logger_File -INFO - email and password were entered
+2023-08-15 23:19:43,262 - logger_File -INFO - login button was clicked
+2023-08-15 23:19:43,512 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:19:43,917 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:19:45,455 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:19:46,320 - logger_File -INFO - cancle button clicked
+2023-08-15 23:19:46,497 - logger_File -INFO - reason to cancel was specified
+2023-08-15 23:19:46,681 - logger_File -INFO - order was cancled finally
+2023-08-15 23:19:47,277 - logger_File -INFO - Cancle order msg was shown
+2023-08-15 23:44:17,556 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:44:17,693 - logger_File -INFO - Login button was clicked
+2023-08-15 23:44:18,544 - logger_File -INFO - email and password were entered
+2023-08-15 23:44:18,600 - logger_File -INFO - login button was clicked
+2023-08-15 23:44:18,848 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:44:19,225 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:44:20,836 - logger_File -INFO - user is orders page
+2023-08-15 23:44:21,094 - logger_File -INFO - user clicked on the first order on the list
+2023-08-15 23:48:41,228 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:48:41,372 - logger_File -INFO - Login button was clicked
+2023-08-15 23:48:42,077 - logger_File -INFO - email and password were entered
+2023-08-15 23:48:42,127 - logger_File -INFO - login button was clicked
+2023-08-15 23:48:42,422 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:48:42,783 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:48:44,365 - logger_File -INFO - user is orders page
+2023-08-15 23:48:44,540 - logger_File -INFO - user clicked on the first order on the list
+2023-08-15 23:53:30,321 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:53:30,457 - logger_File -INFO - Login button was clicked
+2023-08-15 23:53:31,136 - logger_File -INFO - email and password were entered
+2023-08-15 23:53:31,215 - logger_File -INFO - login button was clicked
+2023-08-15 23:53:31,543 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:53:31,839 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:53:33,546 - logger_File -INFO - user is orders page
+2023-08-15 23:53:33,759 - logger_File -INFO - user clicked on the first order on the list
+2023-08-15 23:58:20,082 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-15 23:58:20,243 - logger_File -INFO - Login button was clicked
+2023-08-15 23:58:20,914 - logger_File -INFO - email and password were entered
+2023-08-15 23:58:20,996 - logger_File -INFO - login button was clicked
+2023-08-15 23:58:21,261 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-15 23:58:21,585 - logger_File -INFO - User click on cancle order option
+2023-08-15 23:58:23,299 - logger_File -INFO - user is orders page
+2023-08-15 23:58:23,492 - logger_File -INFO - user clicked on the first order on the list
+2023-08-15 23:58:34,603 - logger_File -INFO - user clicked on review button 
+2023-08-15 23:58:35,555 - logger_File -INFO - User added review
+2023-08-15 23:58:35,820 - logger_File -INFO - review was added successfully
+2023-08-15 23:58:36,572 - logger_File -INFO - review addeded message shown successfully
+2023-08-16 00:52:29,123 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-16 00:52:29,299 - logger_File -INFO - Login button was clicked
+2023-08-16 00:52:30,087 - logger_File -INFO - email and password were entered
+2023-08-16 00:52:30,175 - logger_File -INFO - login button was clicked
+2023-08-16 00:52:30,416 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-16 00:52:30,904 - logger_File -INFO - User click on cancle order option
+2023-08-16 00:52:32,777 - logger_File -INFO - order list was accessed
+2023-08-16 00:52:32,998 - logger_File -INFO - User access order list
+2023-08-16 00:59:44,883 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-16 00:59:45,004 - logger_File -INFO - Login button was clicked
+2023-08-16 00:59:45,509 - logger_File -INFO - email and password were entered
+2023-08-16 00:59:45,549 - logger_File -INFO - login button was clicked
+2023-08-16 00:59:45,844 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-16 00:59:46,175 - logger_File -INFO - User click on cancle order option
+2023-08-16 00:59:47,588 - logger_File -INFO - order list was accessed
+2023-08-16 00:59:47,766 - logger_File -INFO - User access order list
+2023-08-16 01:02:36,562 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-16 01:02:36,695 - logger_File -INFO - Login button was clicked
+2023-08-16 01:02:37,327 - logger_File -INFO - email and password were entered
+2023-08-16 01:02:37,378 - logger_File -INFO - login button was clicked
+2023-08-16 01:02:37,655 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-16 01:02:38,009 - logger_File -INFO - User click on cancle order option
+2023-08-16 01:02:39,185 - logger_File -INFO - order list was accessed
+2023-08-16 01:02:39,366 - logger_File -INFO - User access order list
