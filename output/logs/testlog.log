@@ -420,3 +420,11 @@
 2023-09-01 11:40:31,583 - logger_File -INFO - reason for return is selected
 2023-09-01 11:40:31,898 - logger_File -INFO - FedEx was selected as the drop off location
 2023-09-01 11:40:32,198 - logger_File -INFO - Order is returned messages displayed successfully
+2023-09-01 12:20:04,489 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-09-01 12:20:04,549 - logger_File -INFO - Login button was clicked
+2023-09-01 12:20:04,881 - logger_File -INFO - email and password were entered
+2023-09-01 12:20:04,919 - logger_File -INFO - login button was clicked
+2023-09-01 12:20:05,191 - logger_File -INFO - logout button is displayed and user is logged in
+2023-09-01 12:20:05,511 - logger_File -INFO - User click on cancle order option
+2023-09-01 12:20:07,329 - logger_File -INFO - order list was accessed
+2023-09-01 12:20:07,590 - logger_File -INFO - User access order list
