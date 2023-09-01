@@ -376,3 +376,47 @@
 2023-08-16 01:02:38,009 - logger_File -INFO - User click on cancle order option
 2023-08-16 01:02:39,185 - logger_File -INFO - order list was accessed
 2023-08-16 01:02:39,366 - logger_File -INFO - User access order list
+2023-08-31 23:33:39,507 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-08-31 23:33:39,695 - logger_File -INFO - Login button was clicked
+2023-08-31 23:33:40,113 - logger_File -INFO - email and password were entered
+2023-08-31 23:33:40,167 - logger_File -INFO - login button was clicked
+2023-08-31 23:33:40,475 - logger_File -INFO - logout button is displayed and user is logged in
+2023-08-31 23:33:40,922 - logger_File -INFO - User click on cancle order option
+2023-08-31 23:33:42,701 - logger_File -INFO - order list was accessed
+2023-08-31 23:33:42,967 - logger_File -INFO - User access order list
+2023-09-01 11:13:34,098 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-09-01 11:13:34,213 - logger_File -INFO - Login button was clicked
+2023-09-01 11:13:34,608 - logger_File -INFO - email and password were entered
+2023-09-01 11:13:34,681 - logger_File -INFO - login button was clicked
+2023-09-01 11:13:35,075 - logger_File -INFO - logout button is displayed and user is logged in
+2023-09-01 11:13:35,566 - logger_File -INFO - User click on cancle order option
+2023-09-01 11:13:37,624 - logger_File -INFO - order list was accessed
+2023-09-01 11:13:37,909 - logger_File -INFO - User access order list
+2023-09-01 11:19:46,206 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-09-01 11:19:46,358 - logger_File -INFO - Login button was clicked
+2023-09-01 11:19:46,702 - logger_File -INFO - email and password were entered
+2023-09-01 11:19:46,744 - logger_File -INFO - login button was clicked
+2023-09-01 11:19:46,967 - logger_File -INFO - logout button is displayed and user is logged in
+2023-09-01 11:19:47,389 - logger_File -INFO - User click on cancle order option
+2023-09-01 11:19:49,403 - logger_File -INFO - order list was accessed
+2023-09-01 11:19:49,695 - logger_File -INFO - User access order list
+2023-09-01 11:25:59,673 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-09-01 11:25:59,747 - logger_File -INFO - Login button was clicked
+2023-09-01 11:26:00,074 - logger_File -INFO - email and password were entered
+2023-09-01 11:26:00,119 - logger_File -INFO - login button was clicked
+2023-09-01 11:26:00,334 - logger_File -INFO - logout button is displayed and user is logged in
+2023-09-01 11:26:00,770 - logger_File -INFO - User click on cancle order option
+2023-09-01 11:26:02,795 - logger_File -INFO - order list was accessed
+2023-09-01 11:26:03,057 - logger_File -INFO - User access order list
+2023-09-01 11:40:17,311 - logger_File -INFO - user is on homepage successfully and logo is displayed
+2023-09-01 11:40:17,687 - logger_File -INFO - Login button was clicked
+2023-09-01 11:40:18,213 - logger_File -INFO - email and password were entered
+2023-09-01 11:40:18,261 - logger_File -INFO - login button was clicked
+2023-09-01 11:40:18,509 - logger_File -INFO - logout button is displayed and user is logged in
+2023-09-01 11:40:18,993 - logger_File -INFO - User click on cancle order option
+2023-09-01 11:40:21,399 - logger_File -INFO - order list was accessed
+2023-09-01 11:40:21,896 - logger_File -INFO - User access order list
+2023-09-01 11:40:31,255 - logger_File -INFO - user clicks on return order button successfully
+2023-09-01 11:40:31,583 - logger_File -INFO - reason for return is selected
+2023-09-01 11:40:31,898 - logger_File -INFO - FedEx was selected as the drop off location
+2023-09-01 11:40:32,198 - logger_File -INFO - Order is returned messages displayed successfully
